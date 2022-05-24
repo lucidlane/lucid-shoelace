@@ -18,4 +18,4 @@ COPY . .
 RUN npm run build
 
 FROM alpine:3.15.4 as production-stage
-COPY --from=build-stage /app/dist /dist
+COPY --from=build-stage /app/docs /dist
