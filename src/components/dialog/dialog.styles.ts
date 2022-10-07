@@ -33,7 +33,7 @@ export default css`
     max-width: calc(100% - var(--sl-spacing-2x-large));
     max-height: calc(100% - var(--sl-spacing-2x-large));
     background-color: var(--sl-panel-background-color);
-    border-radius: var(--sl-border-radius-medium);
+    border-radius: var(--sl-border-radius-small);
     box-shadow: var(--sl-shadow-x-large);
   }
 
