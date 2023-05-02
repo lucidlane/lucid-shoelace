@@ -1,0 +1,6 @@
+{
+  "shoelace": {
+    "type": "frontend",
+    "hostPrefix": "lucid-ui"
+  }
+}
