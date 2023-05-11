@@ -1,5 +1,5 @@
 {
-  "shoelace": {
+  "lucid-ui": {
     "type": "frontend",
     "hostPrefix": "lucid-ui"
   }
